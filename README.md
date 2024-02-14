@@ -1,1 +1,1 @@
-# Web-Dev-Hw-2
+# This is the second hw for web dev, It's a simple html file that has 5 boxes diagonal and going down the webpage. Each box has the same size with the exception of the following box having it's border size doubled. 
